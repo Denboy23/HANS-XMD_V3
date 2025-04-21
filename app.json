@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "HansTz&FOdEwCQb#zX257bW9puPjrCYHdgmBrx7BIO4rGiaY7AhfOIG3Fwo",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
