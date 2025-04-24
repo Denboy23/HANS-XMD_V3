@@ -7,9 +7,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "HansTz&0K9hwCpA#yXF3qB6p48OveP17cf88opG_JOXzJOEoONOdhMWgSHc",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -64,12 +64,12 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "HansTz"
+      "value": "𝐷𝐸ℕ𝐵𝙊𝑌☆"
     },
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255753668403"
+      "value": "263789085533"
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -99,7 +99,7 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
