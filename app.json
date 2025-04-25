@@ -7,7 +7,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "HansTz&FOdEwCQb#zX257bW9puPjrCYHdgmBrx7BIO4rGiaY7AhfOIG3Fwo",
+      "description": "",
       "required": true,
       "value": "true"
     },
@@ -29,7 +29,7 @@
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
@@ -69,7 +69,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263710781795"
+      "value": "263789085533"
     },
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
