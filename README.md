@@ -92,13 +92,13 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 <h3>2. Get Session ID</h3>
 <p>You will need a session ID to run the HANS-XMD_V3. Click the button below to obtain your session ID. If there is any issue loading the site, try using a VPN:</p>
 
-<p><strong>1️⃣ Pair Code (Session ID)</strong></p>
-<a href='https://hans-tz-site.onrender.com' target="_blank">
+<p><strong>1️⃣ FOR RENDER (Session ID)</strong></p>
+<a href='https://hanstz-tech-pair-site-d3688ca5f81e.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
-<p><strong>2️⃣ Pair Code (Session ID)</strong></p>
-<a href='https://hanstech-site.onrender.com/pair' target="_blank">
+<p><strong>2️⃣ Normal Deployments (Session ID)</strong></p>
+<a href='https://hans-tz-site.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
@@ -147,6 +147,39 @@ Dont forget to fork 🍴 & star 🌟 repo😇
     <img alt='Render Deploy' src='https://img.shields.io/badge/-Render%20Deploy-black?style=for-the-badge&logo=render&logoColor=white'/>
   </a>
 </p>
+
+<details>
+  <summary>TAP HOW TO DEPLOY RENDER STEP'S</summary>
+  <p>
+##Render Deployment:
+SESSION ID FOR RENDER BOT
+    
+https://hanstz-tech-pair-site-d3688ca5f81e.herokuapp.com/
+
+1. If you don’t have a Render account, click [**here**](https://dashboard.render.com) to create one.
+2. Create a new web service.  
+3. ChoosePublic Git Repository.  
+4. In the field, enter `https://github.com/Hans-Xmd/King_Hans`.
+5. Click Connect
+6. Select the Free Plan if you don’t want to pay
+7. In the Environment Variable section, click Add from .env and copy the content below
+
+```env
+PREFIX
+SESSION_ID
+OWNER_NUMBER
+OWNER_NAME
+```
+
+8. **Click Add env  to save, then edit as needed. Don’t forget to enter your session ID.
+9. **Click Deploy Service and enjoy!
+
+10. uptime `https://betterstack.com/uptime`
+11. uptime `https://uptimerobot.com/`
+
+##uptime you bot when you done all process to deploy uptime before using to keep you bot alive never sleep 💤
+</p>
+</details>
 
 
 <h4 align="center">6. Replit</h4>
